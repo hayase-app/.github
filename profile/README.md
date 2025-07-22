@@ -34,7 +34,7 @@ It is meant to feel look, work and perform like a premium streaming service, but
 
 ## 🌟 Highlights
 
-* 📚 **Anime list integration:** Sync with AniList, Kitsu, ~~MAL~~, or use local storage.
+* 📚 **Anime list integration:** Sync with AniList, Kitsu, MAL, or use local storage.
 * ⚡ **Instant torrent streaming:** Watch as you download, with extension support for custom sources.
 * 📴 **Offline viewing:** Enjoy already-downloaded torrents anytime.
 * 🎬 **Advanced video player:** Full support for all subtitle formats, softcoded and external tracks, and more.
