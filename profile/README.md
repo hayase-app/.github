@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/hayase-app/ui">
-		<img src="./static/logo_white.svg" width="300">
+		<img src="./logo_white.svg" width="300">
 	</a>
 </p>
 <h1 align="center"><b>Hayase</b></h1>
