@@ -49,7 +49,7 @@ The app is designed to look, work and perform like a premium streaming service, 
 
 ### 🎞️ Anime Management
 
-* Effortlessly manage your anime list with support for AniList, Kitsu, ~~MAL~~, and local storage.
+* Effortlessly manage your anime list with support for AniList, Kitsu, MAL, and local storage.
 * Automatically track watched episodes.
 * See what you’re behind on, and discover sequels you’ve missed.
 * Keep up to date and browse upcoming episodes with airing calendars.
