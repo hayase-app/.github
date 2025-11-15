@@ -117,10 +117,6 @@ The app is designed to look, work and perform like a premium streaming service, 
 
 **Note:** Hayase does not provide any torrent sources, indexes, or repositories. All content must be supplied by the user.
 
-<p align="center">
-  <img src='https://raw.githubusercontent.com/hayase-app/website/main/static/modal.webp' width='400px'></img>
-</p>
-
 ### ⚙️ Performance & Security
 
 * Highly secure.
